@@ -1,0 +1,21 @@
+{
+  "name": "t-b-d",
+  "version": "1.0.0",
+  "description": "XXXXXX kata performed by the Marcio Silva",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest",
+    "test:watch": "jest --watchAll --coverage=true --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Ministry-of-Silly-Scripts/XXXXXX.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
