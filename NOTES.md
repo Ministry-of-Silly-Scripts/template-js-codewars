@@ -1,9 +1,15 @@
 # Notes
 
+## Description
+
+## Domain
+
+### Rules
+
 ---
 
 **Label**  
-✅ done 🚧 WIP ❌ ERROR 🐛 BUG 
+✅ done 🚧 WIP ❌ ERROR 🐛 BUG
 
 ---
 

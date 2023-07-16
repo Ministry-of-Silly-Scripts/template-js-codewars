@@ -1,12 +1,14 @@
 {
   "name": "t-b-d",
   "version": "1.0.0",
-  "description": "XXXXXX kata performed by the Marcio Silva",
+  "description": "XXXXXX kata performed by Marcio Silva",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
     "test": "jest",
-    "test:watch": "jest --watchAll --coverage=true --verbose"
+    "test:watch": "jest --watchAll --coverage=true --verbose",
+    "prettier:verify": "prettier --check .",
+    "prettier:fix": "prettier --write ."
   },
   "repository": {
     "type": "git",
@@ -16,6 +18,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^29.5.0"
+    "jest": "^29.5.0",
+    "prettier": "3.0.0"
   }
 }

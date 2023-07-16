@@ -1,4 +1,4 @@
-# XXXXX kata 
+# XXXXX kata
 
 XXXXX kata performed by to practice TDD for the Jaguars training at IBM
 
@@ -15,8 +15,12 @@ Run `npm install` and then `npm run test:watch`
 
 ## Commands
 
-| NPM Script | Description                                                    |
-| ---------- | -------------------------------------------------------------- |
-| start      | Starts app                                                     |
-| test       | Runs unit tests                                                |
-| test:watch | Runs unit tests and watches for changes (in local development) |
+| NPM Script      | Description                                                    |
+| --------------- | -------------------------------------------------------------- |
+| start           | Starts app                                                     |
+| test            | Runs unit tests                                                |
+| test:watch      | Runs unit tests and watches for changes (in local development) |
+| prettier:verify | Verify the files according to .prettierrc                      |
+| prettier:fix    | Runs changes found in verify                                   |
+| eslint:verify   | Verify the files according to eslintrc.js                      |
+| eslint:fix      | Runs changes found in verify                                   |
